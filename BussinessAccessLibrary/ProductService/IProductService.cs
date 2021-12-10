@@ -11,6 +11,5 @@ namespace BussinessAccessLibrary.ProductService
     public interface IProductService
     {
         List<ProductModel> GetAll();
-
     }
 }
